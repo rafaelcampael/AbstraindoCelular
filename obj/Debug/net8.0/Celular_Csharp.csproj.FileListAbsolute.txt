@@ -1,0 +1,14 @@
+G:\estudo_csharp\Celular_Csharp\bin\Debug\net8.0\Celular_Csharp.exe
+G:\estudo_csharp\Celular_Csharp\bin\Debug\net8.0\Celular_Csharp.deps.json
+G:\estudo_csharp\Celular_Csharp\bin\Debug\net8.0\Celular_Csharp.runtimeconfig.json
+G:\estudo_csharp\Celular_Csharp\bin\Debug\net8.0\Celular_Csharp.dll
+G:\estudo_csharp\Celular_Csharp\bin\Debug\net8.0\Celular_Csharp.pdb
+G:\estudo_csharp\Celular_Csharp\obj\Debug\net8.0\Celular_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+G:\estudo_csharp\Celular_Csharp\obj\Debug\net8.0\Celular_Csharp.AssemblyInfoInputs.cache
+G:\estudo_csharp\Celular_Csharp\obj\Debug\net8.0\Celular_Csharp.AssemblyInfo.cs
+G:\estudo_csharp\Celular_Csharp\obj\Debug\net8.0\Celular_Csharp.csproj.CoreCompileInputs.cache
+G:\estudo_csharp\Celular_Csharp\obj\Debug\net8.0\Celular_Csharp.dll
+G:\estudo_csharp\Celular_Csharp\obj\Debug\net8.0\refint\Celular_Csharp.dll
+G:\estudo_csharp\Celular_Csharp\obj\Debug\net8.0\Celular_Csharp.pdb
+G:\estudo_csharp\Celular_Csharp\obj\Debug\net8.0\Celular_Csharp.genruntimeconfig.cache
+G:\estudo_csharp\Celular_Csharp\obj\Debug\net8.0\ref\Celular_Csharp.dll
