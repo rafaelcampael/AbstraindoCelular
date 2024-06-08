@@ -8,6 +8,6 @@ nokia.InstalarAplicativo("WhatsApp");
 Console.WriteLine("\n");
 
 Console.WriteLine("Smartphone iPhone: ");
-Smartphone iphone = new Iphone(numero: 12345, modelo: "15 ProMax", imei: "1132321212221111", memoria: 250);
+Smartphone iphone = new Iphone(numero: "12345", modelo: "15 ProMax", imei: "1132321212221111", memoria: 250);
 iphone.ReceberLigacao();
 iphone.InstalarAplicativo("Telegram");

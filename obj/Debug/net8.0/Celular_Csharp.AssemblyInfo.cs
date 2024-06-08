@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Celular_Csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f9b693e8ff220daf8a89a732e647e7230f65d47")]
 [assembly: System.Reflection.AssemblyProductAttribute("Celular_Csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Celular_Csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
